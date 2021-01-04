@@ -17,6 +17,8 @@ I'm also the Founder and current CEO of [VoteBook](https://votebookelections.com
 - :brain: Other things I've used in the past: 
   - Java
   - Kali Linux
+  - Arch Linux
+  - Ubuntu Server/Personal
 - 📫 How to reach me:
   - Sidharth.n.babu@utexas.edu
   - [LinkedIn](https://www.linkedin.com/in/sidharth-babu-941058192)
