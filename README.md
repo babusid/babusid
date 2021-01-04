@@ -1,4 +1,4 @@
-<a href="babusid.github.io"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="https://babusid.github.io"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 ### Hi there 👋
 My name's Sidharth Babu, and I'm a first-year Electrical and Computer Engineering Student at the University of Texas at Austin. 
