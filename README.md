@@ -1,7 +1,7 @@
 <a href="https://babusid.github.io"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 ### Hi there 👋
-My name's Sidharth Babu, and I'm a first-year Electrical and Computer Engineering Student at the University of Texas at Austin. 
+My name's Sidharth Babu, and I'm an Electrical and Computer Engineering Student at the University of Texas at Austin. 
 In my free time, I'm a part of the Longhorn Racing Solar Controls team, where I help make sure that the :oncoming_automobile: doesn't :collision:.
 I'm also the Founder and current CEO of [VoteBook](https://votebookelections.com/), where we build tools to facilitate voting and civic service.
 
