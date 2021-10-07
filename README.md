@@ -1,20 +1,19 @@
 
 ### Hi there 👋
 My name's Sidharth Babu, and I'm an Electrical and Computer Engineering Student at the University of Texas at Austin. 
-In my free time, I'm a part of the Longhorn Racing Solar Controls team, where I help make sure that the :oncoming_automobile: doesn't :collision:.
-I'm also the Founder and current CEO of [VoteBook](https://votebookelections.com/), where we build tools to facilitate voting and civic service.
+In my free time, I'm a part of the Longhorn Racing Solar Controls team, where I help make sure that the :oncoming_automobile: doesn't :collision:. I'm also responsible for helping manage our corporate relationships, and also our public outreach.
 
 ## Some other stuff:
 - 🌱Some things I'm currently using:
-  - React Native
+  - Java
+  - C/C+
+- :brain: Other things I've used in the past: 
   - ReduxJS
+  - React Native
   - Javascript
   - React-NodeGUI
   - Google Firestore
-  - C
   - Python
-- :brain: Other things I've used in the past: 
-  - Java
   - Kali Linux
   - Arch Linux
   - Ubuntu Server/Personal
