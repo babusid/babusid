@@ -6,7 +6,10 @@ In my free time, I'm a part of the Longhorn Racing Solar Controls team, where I 
 ## Some other stuff:
 - 🌱Some things I'm currently using:
   - Java
-  - C/C+
+  - C/C++
+  - React JS
+  - MongoDB
+  - Python
 - :brain: Other things I've used in the past: 
   - ReduxJS
   - React Native
