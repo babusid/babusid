@@ -7,10 +7,12 @@ In my free time, I'm a part of the Longhorn Racing Solar Controls team, where I 
 - 🌱Some things I'm currently using:
   - Java
   - C/C++
-  - React JS
-  - MongoDB
+  - UNIX / Linux
   - Python
+  - NumPy, Scikit-Learn, PyTorch ...
 - :brain: Other things I've used in the past: 
+  - MongoDB
+  - React JS
   - ReduxJS
   - React Native
   - Javascript
