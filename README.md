@@ -24,7 +24,7 @@ As part of my campus community, I'm a part of the Longhorn Racing Solar Controls
   - Arch Linux
   - Ubuntu Server/Personal
 - 📫 How to reach me:
-  - Sidharth.n.babu@utexas.edu
+  - Sidharth.n.babu@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/sidharth-babu-941058192)
 
 ## Things I enjoy in my free time!
