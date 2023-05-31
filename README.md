@@ -6,23 +6,21 @@ As part of my campus community, I'm a part of the Longhorn Racing Solar Controls
 
 ## Some other stuff:
 - 🌱Some things I'm currently using:
-  - Java
+  - CUDA
   - C/C++
-  - UNIX / Linux
   - Python
-  - NumPy, Scikit-Learn, PyTorch ...
-- :brain: Other things I've used in the past: 
+  - PyTorch, NumPy, Scikit-Learn ...
   - MongoDB
-  - React JS
+  - React JS 
+  - AWS
+  - UNIX / Linux
+- :brain: Other things I've used in the past: 
+  - Java
   - ReduxJS
   - React Native
   - Javascript
   - React-NodeGUI
   - Google Firestore
-  - Python
-  - Kali Linux
-  - Arch Linux
-  - Ubuntu Server/Personal
 - 📫 How to reach me:
   - Sidharth.n.babu@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/sidharth-babu-941058192)
