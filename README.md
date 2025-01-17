@@ -1,13 +1,14 @@
 
 ### Hi there 👋
-My name's Sidharth Babu, and I'm an Electrical and Computer Engineering Student at the University of Texas at Austin. I'm passionate about intelligent and performant software engineering, and I love interacting and working on innovative projects whenever I get the chance! I'm very interested in application development and optimization, as well as automotive software. 
+My name's Sidharth Babu, and I'm an Electrical and Computer Engineering Student at Carnegie Mellon University. I'm passionate about intelligent and performant software systems, and I love interacting and working on innovative projects whenever I get the chance! I'm particulary interested in distributed systems and performance optimization, as well as automotive software. 
 
-As part of my campus community, I'm the captain of the Longhorn Racing Solar team, where we build experimental solar vehicles, and race them!
+Previously, I was a student at UT Austin (go Longhorns!) and an intern at Keysight Technologies and NASA.
 
 ## Some other stuff:
-- 🌱Some things I'm currently using:
+- 🌱Some things I'm currently using / learning:
   - CUDA
   - C/C++
+  - Rust
   - Python
   - PyTorch, NumPy, Scikit-Learn ...
   - MongoDB
@@ -29,7 +30,4 @@ As part of my campus community, I'm the captain of the Longhorn Racing Solar tea
 - Lifting Weights
 - Comedy Movies / Shows
 - Cooking Shows!
-- Urban exploration (I love finding hidden gems in new places!)
 - Volunteering 
-
-## Hook 'Em!
