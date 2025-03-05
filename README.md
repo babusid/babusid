@@ -2,7 +2,7 @@
 ### Hi there 👋
 My name's Sidharth Babu, and I'm an Electrical and Computer Engineering Student at Carnegie Mellon University. I'm passionate about intelligent and performant software systems, and I love interacting and working on innovative projects whenever I get the chance! I'm particulary interested in distributed systems and performance optimization, as well as automotive software. 
 
-Previously, I was a student at UT Austin (go Longhorns!) and an intern at Keysight Technologies and NASA.
+Previously, I was a student at UT Austin (go Longhorns!) and an intern at Keysight Technologies and NASA. This summer, I will be interning at Adobe's Developer Platforms Group.
 
 ## Some other stuff:
 - 🌱Some things I'm currently using / learning:
