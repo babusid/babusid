@@ -6,13 +6,13 @@ Previously, I was a student at UT Austin (go Longhorns!) and an intern at Keysig
 
 ## Some other stuff:
 - 🌱Some things I'm currently using / learning:
-  - CUDA
   - C/C++
   - Rust
   - Python
   - PyTorch, NumPy, Scikit-Learn ...
   - MongoDB
-  - React JS 
+  - React JS
+  - FastAPI
   - AWS
   - UNIX / Linux
 - :brain: Other things I've used in the past: 
