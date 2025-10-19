@@ -7,11 +7,12 @@ Previously, I was a student at UT Austin (go Longhorns!) and an intern at Adobe,
 - 🌱Some things I'm currently using / learning:
   - C/C++
   - Python
-  - PyTorch, NumPy, Scikit-Learn ...
+  - PyTorch, NumPy
   - FastAPI
   - AWS
   - UNIX / Linux
-- :brain: Other things I've used in the past: 
+- :brain: Other things I've used in the past:
+  - Pandas / Scikit-Learn 
   - Java
   - React JS
   - ReduxJS
@@ -24,6 +25,7 @@ Previously, I was a student at UT Austin (go Longhorns!) and an intern at Adobe,
   - Sidharth.n.babu@gmail.com
   - sidhartb@andrew.cmu.edu
   - [LinkedIn](https://www.linkedin.com/in/sidharth-babu-941058192)
+  - [Website!](https://babusid.up.railway.app/)
 
 ## Things I enjoy in my free time!
 - Lifting Weights
